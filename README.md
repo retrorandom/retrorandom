@@ -1,5 +1,4 @@
-### I LOVE MEN
-
+### I do html stuff I also do java stuff but im bad at that shit so like yeah I do python stuff aswell but nothing worthy to go onto my profile 🙌 🙌 🔥 🔥
 <!--
 **PogRandom/PogRandom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
