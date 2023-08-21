@@ -1,5 +1,5 @@
-### Man im dead 💀
+just a guy with niche intrests 
 
-![quid](https://raw.githubusercontent.com/PogRandom/PogRandom/main/man%20im%20dead.gif)
+go to my website: retrorandom.lol
 
-<p> <img src="https://komarev.com/ghpvc/?username=PogRandom&color=8E64D0" alt="PogRandom" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=retrorandom&color=8E64D0" alt="retrorandom" /> </p>
