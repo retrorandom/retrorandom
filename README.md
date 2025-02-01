@@ -1,4 +1,4 @@
-just a guy with niche intrests 
+just a silly girl with niche intrests 
 
 go to my website: (https://www.retrorandom.lol/)
 
