@@ -1,4 +1,4 @@
-<a href="#"><img align="left" width="125" height="125" src="assets/quid.gif" alt="retrorandom"></a>
+<div style="text-align:center"><a href="index.html"><img src="retrorandom.png" title="retrorandom" alt="retrorandom" height="138" width="350"></a></div>
 just a silly girl with niche intrests 
 
 go to my website: (https://www.retrorandom.lol/)
