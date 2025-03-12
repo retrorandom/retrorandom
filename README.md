@@ -3,6 +3,8 @@ just a silly girl with niche intrests
 
 go to my website: (https://www.retrorandom.lol/)
 
+Currently learning: Java (for minecraft server plugins)
+
 <br/>
 <details>
   <summary>⚡ <b><code>Basic ahhhh stats</code></b></summary>
