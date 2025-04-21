@@ -1,4 +1,4 @@
-<div style="text-align:center"><a href="index.html"><img src="retrorandom.png" title="retrorandom" alt="retrorandom" height="138" width="350"></a></div>
+![quid](https://github.com/user-attachments/assets/db5581cb-f4ed-41d5-8050-a6246a1fb5d2)<div style="text-align:center"><a href="index.html"><img src="pet the retrocat.gif" title="retrorandom" alt="retrorandom" height="138" width="350"></a></div>
 just a silly girl with niche intrests 
 
 go to my website: (https://www.retrorandom.lol/)
