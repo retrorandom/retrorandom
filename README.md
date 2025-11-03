@@ -1,7 +1,7 @@
 <div style="text-align:center"><a href="index.html"><img src="pet the retrocat.gif" title="retrorandom" alt="retrorandom" height="138" width="350"></a></div>
 just a silly girl with niche intrests 
 
-go to my website: (https://www.retrorandom.lol/)
+go to my website: (https://www.retrolilly.net/)
 
 Currently learning: Java (for minecraft server plugins)
 
