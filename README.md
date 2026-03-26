@@ -1,4 +1,4 @@
-<div style="text-align:center"><a href="index.html"><img src="pet the retrocat.gif" title="retrorandom" alt="retrorandom" height="138" width="350"></a></div>
+<div style="text-align:center"><a href="index.html"><img src="lillypfp.png" title="lillypfp" alt="lillypfp" height="138" width="350"></a></div>
 just a silly girl with niche intrests 
 
 go to my website: (https://retrolilly.net/)
